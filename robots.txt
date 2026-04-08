@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+# Sitemap: https://laymoun-laymoun.webxmed.ma/sitemap.xml
